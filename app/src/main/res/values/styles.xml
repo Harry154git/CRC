@@ -1,0 +1,6 @@
+<resources>
+    <style name="CustomButtonStyle" parent="">
+        <item name="android:background">@drawable/button_collor_changed</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>

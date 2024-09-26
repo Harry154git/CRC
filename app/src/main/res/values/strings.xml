@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Robot Controller 2</string>
+    <string name="text1">START</string>
+    <string name="text2">CONNECT</string>
+    <string name="text3">shut</string>
+    <string name="text4">vacuum</string>
+    <string name="text5">front</string>
+    <string name="text6">back</string>
+    <string name="text7">left</string>
+    <string name="text8">right</string>
+    <string name="text9">up</string>
+    <string name="text10">down</string>
+    <string name="text11">0</string>
+    <string name="text12">1</string>
+    <string name="text13">2</string>
+    <string name="text14">3</string>
+    <string name="text15">4</string>
+    <string name="text16">atas</string>
+    <string name="text17">bawah</string>
+    <string name="text18">kiri</string>
+    <string name="text19">kanan</string>
+</resources>
